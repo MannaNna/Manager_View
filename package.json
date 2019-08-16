@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Manager View application",
+  "main": "bamazonManager.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^6.5.1",
+    "my-sql": "^1.2.15",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MannaNna/Manager_View.git"
+  },
+  "author": "Mariana Secu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MannaNna/Manager_View/issues"
+  },
+  "homepage": "https://github.com/MannaNna/Manager_View#readme"
+}
